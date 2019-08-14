@@ -2,6 +2,7 @@
 ## 软件使用及专业资料积累
 
 - []()
+- (腾讯设计导航)http://hao.shejidaren.com/
 - 超级搜索 http://hao.shejidaren.com/ （集合花瓣，dribbble等等）
 - 设计素材综合： http://www.qijishow.com/down/navigation.html
 - [LAM 杂志](http://bt.royle.com/publication/?i=573617#{%22issue_id%22:%22566750%22,%22view%22:%22contentsBrowser%22})
